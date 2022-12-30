@@ -8,10 +8,10 @@ Thank you for using Lava. These Terms of Service ("Terms of Service", "Terms") a
 By agreeing to these Terms, you agree to not use these Services for any reason not expressly stated in these Terms. Our Services are intended to be used for bot searching, bot listing, and updating bot information.
 
 These Services uphold a basic conduct policy as follows. You, the user, agree to:
-    - We have no obligation to monitor any means of communicating using the Service but it may do so in connection with providing the Service. The Company may also terminate or suspend your access to the Service at any time, without notice, for any reason.
-    - You acknowledge that any user content on the Service is neither endorsed nor controlled by us. The Company will not under any circumstances be liable for any activity on the Service. The Company is not responsible for information that you choose to share on the Service, or for the actions of other users.
-    - As a condition of your use of the Service, and without limiting your other obligations under these Terms, you agree to comply with the restrictions and rules of use set forth in these Terms Usage Guidelines as well as any additional restrictionsor rules set forth in the Service. You agree not to use the Service in order to infract the Terms or Guidelines set by any chat or social platform.
-    - We reserve the right to determine what conduct we consider to be a violation of the Terms or improper use of the Service and to take action including exclusion from further use of our Service.
+    -We have no obligation to monitor any means of communicating using the Service but it may do so in connection with providing the Service. The Company may also terminate or suspend your access to the Service at any time, without notice, for any reason.
+    -You acknowledge that any user content on the Service is neither endorsed nor controlled by us. The Company will not under any circumstances be liable for any activity on the Service. The Company is not responsible for information that you choose to share on the Service, or for the actions of other users.
+    -As a condition of your use of the Service, and without limiting your other obligations under these Terms, you agree to comply with the restrictions and rules of use set forth in these Terms Usage Guidelines as well as any additional restrictionsor rules set forth in the Service. You agree not to use the Service in order to infract the Terms or Guidelines set by any chat or social platform.
+    -We reserve the right to determine what conduct we consider to be a violation of the Terms or improper use of the Service and to take action including exclusion from further use of our Service.
 
 We respect that behavior outside our Services, unless potentially hazardous to our Services, shall not impact access or abilities on the Service.
 
